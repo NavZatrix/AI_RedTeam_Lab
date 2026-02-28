@@ -18,7 +18,7 @@ This repository contains a **home AI red team lab** designed for educational pur
 ## Files
 
 - `attacks_library.py` - structured attack vectors
-- `ai_redteam_lab_v2.py` - interactive lab with behavioral drift
+- `ai_redteam_lab.py` - interactive lab with behavioral drift
 - `ai_redteam_report_export.py` - automated execution with CSV & HTML export
 - `ai_redteam_dashboard.py` - final version with visual dashboard
 - `README.md` - project overview and instructions
