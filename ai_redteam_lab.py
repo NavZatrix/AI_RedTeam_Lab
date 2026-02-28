@@ -1,5 +1,5 @@
 
-# ai_redteam_lab_v2.py
+# ai_redteam_lab.py
 # Interactive home lab with behavioral drift
 
 from attacks_library import ATTACKS
